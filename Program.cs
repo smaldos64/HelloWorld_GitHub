@@ -12,6 +12,8 @@ namespace HelloWorld_GitHub
         {
             Console.WriteLine("Hello World !!!");
             Console.ReadLine();
+            Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
