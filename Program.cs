@@ -10,6 +10,8 @@ namespace HelloWorld_GitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World !!!");
+            Console.ReadLine();
         }
     }
 }
